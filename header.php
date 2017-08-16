@@ -23,8 +23,8 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<div style="background: red; height: 100px;">
-		
+	<div style="background: purple; height: 100px;">
+
 	</div>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
