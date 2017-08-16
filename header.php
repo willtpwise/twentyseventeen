@@ -23,7 +23,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<div style="background: purple; height: 100px;">
+	<div style="background: blue; height: 100px;">
 
 	</div>
 <div id="page" class="site">
